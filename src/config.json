@@ -1,9 +1,12 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
-  "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
-  "primary_color": "#d2691e",
-  "orderby": "distance"
+  "タイムスタンプ": "2023/02/05 11:07:56",
+  "カテゴリ": "東京",
+  "画像": "https://kickout-japan-ir-map.github.io/certified-instructor/IMG_4398.JPG",
+  "緯度": "35.66280309",
+  "経度": "139.7110549",
+  "スポット名": "a2ko",
+  "紹介文": "a2ko's weekly schedule\n■Tipness五反田​\n月:美カラテフィット, Martial Tec 30 \n火:Martial PRO 60 \nHP: https://tip.tipness.co.jp/shop_info/SHP005/ \n■a2ko'sBOOT CAMP\n火:Kick Out (渋谷)\n水:古式ムエタイ, Kick Out (渋谷)\n土:Kick Out (横浜) \nHP: https://muaybootcamp.wixsite.com/bootcamp\n■Teppen Gym \n水:Kick Out \nHP: https://team-teppen.com/\n■Next 赤坂\n木:conditioning, a2ko's kick, Thai Kick Rhythm \nHP: https://next-akasaka.com/\n■Gold's Gym原宿Annex​\n金:Kick Out Body Make, Kick Out \nHP: http://www.goldsgym.jp/shop/9999\n■T's Gymセンター南店\n木:Kick Out \nHP: http://tsgym.jp/index.html",
+  "Instagram": "a2ko_kick",
+  "Twitter": "",
+  "公式サイト": "https://www.omotesandokick.com/"
 }
